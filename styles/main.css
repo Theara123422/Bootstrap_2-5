@@ -10,3 +10,13 @@
 .navbar-nav li{
     padding: 0px 15px;
 }
+.content-container{
+    height: 80vh;
+    /* background-color: red; */
+}
+.box{
+    height: 48%;
+}
+.card-image{
+    height: 150px;
+}
